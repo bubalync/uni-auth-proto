@@ -1,2 +1,2 @@
 # uni-auth-proto
-protobuf files for uni-auth sevice
+Protobuf files for uni-auth service
